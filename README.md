@@ -11,8 +11,9 @@ This plugin implements macOS navigation shortcuts to ensure consistent behavior 
 ## Installation
 
 1. Download the plugin files.
-2. Place the macos-nav folder into the `path/to/your/Mogan/TeXmacs/plugins` directory.”
+2. Place the macos-nav folder into the `path/to/your/Mogan/TeXmacs/plugins` directory.
 3. Load the plugin in Mogan/TeXmacs by executing the initialization script.
+4. Open Mogan/TeXmacs press `Ctrl-x` and run `(use-modules (macos-nav))` or setup auto-load manually.
 
 ## Usage
 
